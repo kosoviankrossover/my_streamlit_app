@@ -5,7 +5,6 @@ import numpy as np
 import pandas as pd
 from oauth2client.service_account import ServiceAccountCredentials
 from hashlib import sha256 as ENCRYPT
-# googleapiclient should be version 2.7.0 but I cannot find the proper attribute
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseUpload
 from datetime import datetime
