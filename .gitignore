@@ -1,0 +1,4 @@
+_old/
+.streamlit/
+gcp_creds.json
+my_notes.txt
